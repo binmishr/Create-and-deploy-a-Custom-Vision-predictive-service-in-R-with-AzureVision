@@ -11,3 +11,5 @@ An R frontend to Azure Computer Vision and Azure Custom Vision, building on the 
 
 This article walks you through how to create, train and deploy a Custom Vision model in R, using AzureVision.
 
+All the necessary R code files are attached with this repository for AzureVision.
+
