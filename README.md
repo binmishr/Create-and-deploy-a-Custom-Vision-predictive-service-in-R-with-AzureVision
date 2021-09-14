@@ -1,0 +1,1 @@
+# Create-and-deploy-a-Custom-Vision-predictive-service-in-R-with-AzureVision
