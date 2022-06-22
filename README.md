@@ -1,7 +1,7 @@
 # Create-and-deploy-a-Custom-Vision-predictive-service-in-R-with-AzureVision
 
-The details of the codeset and plots are included in the attached Adobe Acrobat reader (.pdf) file in this repository. 
-You need to download the same to view the contents. There are referrals to other contents in BLUE colour also to follow.
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
 The AzureVision package is an R frontend to Azure Computer Vision and Azure Custom Vision. These services let you leverage Microsoft’s Azure cloud to carry out visual recognition tasks using advanced image processing models, with minimal machine learning expertise.
 
